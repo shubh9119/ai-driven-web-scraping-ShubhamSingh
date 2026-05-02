@@ -4,7 +4,7 @@ A full-stack web testing dashboard that runs automated Playwright tests against 
 
 ---
 
-## 🎥 Demo Video
+##  Demo Video
 
 > **[▶ Watch the Demo Video](YOUR_VIDEO_LINK_HERE)**
 >
@@ -12,7 +12,7 @@ A full-stack web testing dashboard that runs automated Playwright tests against 
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 
@@ -50,7 +50,7 @@ npm run dev        # development (nodemon auto-restart)
 # or
 npm start          # production
 ```
-You should see: `🚀 Backend server running on http://localhost:4000`
+You should see: ` Backend server running on http://localhost:4000`
 
 **Terminal 2 — Frontend (port 3000)**
 ```bash
@@ -61,7 +61,7 @@ Browser opens automatically at `http://localhost:3000`
 
 ---
 
-## 🧪 How to Use
+##  How to Use
 
 1. Open `http://localhost:3000` — you'll see the **Landing Page**
 2. Click **"Open Dashboard"** to enter the dashboard
@@ -151,7 +151,7 @@ Target: **`https://demo.playwright.dev/todomvc/`**
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Layer | Technology | Purpose |
 |-------|-----------|---------|
@@ -187,15 +187,15 @@ Target: **`https://demo.playwright.dev/todomvc/`**
 
 ---
 
-## 🤖 AI Tools Used
+## 🤖 AI Tools + StackOverflow + Playwright Documentaion are used:
 
-This project was developed with assistance from **Claude (Anthropic)**:
+This project was developed with assistance from **Claude (Anthropic)** + **StackOverflow** + **Playwright Documentation**:
 - Architecture planning and API design decisions
 - Code generation for backend routes and frontend components
 - Debugging Playwright JSON reporter parsing edge cases
 - README and documentation writing
 
-All generated code was reviewed, tested, and refined manually.
+Code was reviewed, tested, and refined manually.
 
 ---
 
