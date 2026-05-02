@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+frontend/node_modules/
+backend/node_modules/
+
+# Playwright artifacts
+test-results/
+playwright-report/
+backend/reports/
+
+# Runtime data (DO commit test-results.json structure but not data)
+backend/test-results.json
+
+# Build output
+frontend/build/
+
+# Env files
+.env
+.env.local
+.env.*.local
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
+npm-debug.log*
