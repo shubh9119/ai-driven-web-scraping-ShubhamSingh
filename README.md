@@ -6,7 +6,7 @@ A full-stack web testing dashboard that runs automated Playwright tests against 
 
 ##  Demo Video
 
-> **[▶ Watch the Demo Video](YOUR_VIDEO_LINK_HERE)**
+> **[▶ Watch the Demo Video](https://drive.google.com/file/d/10ihRYmFtUaGDXM5UIzJYNMKQ3WRaZ-MN/view?usp=sharing)**
 >
 > _Record a 5–10 minute walkthrough covering architecture, Playwright integration, test structure, and a live demonstration of the dashboard. Upload to YouTube/Vimeo/Google Drive and replace the link above._
 
