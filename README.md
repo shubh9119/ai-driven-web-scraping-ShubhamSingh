@@ -201,4 +201,4 @@ Code was reviewed, tested, and refined manually.
 ---
 
 *Built for Green Letter Technologies · Take-Home Assignment*
-*Repository: `ai-driven-web-scraping-<YourName>`*
+*Repository: `ai-driven-web-scraping-<Shubham Singh>`*
